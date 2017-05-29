@@ -13,6 +13,7 @@ About R Program
 -->1.1.4 Reading activity labels
 
 ->1.2 Assigning column names.
+
 ->1.3 Merging all data in one set.
 
 2.Extracting only the measurements on the mean and standard deviation for each measurement
