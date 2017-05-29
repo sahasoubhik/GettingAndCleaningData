@@ -1,11 +1,14 @@
 About R Program
 
 1. Merging the training and the test sets to create one data set.
+
 1.1 Reading files
+
 1.1.1 Reading trainings tables.
 1.1.2 Reading testing tables.
 1.1.3 Reading feature vector.
 1.1.4 Reading activity labels.
+
 1.2 Assigning column names.
 1.3 Merging all data in one set.
 
